@@ -1,6 +1,3 @@
-Certainly! Here's the content formatted as a markdown (`.md`) file for your assignment:
-
-
 # Python for Finance - Assignment
 
 ## Objective
@@ -90,8 +87,3 @@ If you’re feeling adventurous, you can download the stock data of a second com
 - Clean and organized code with comments explaining key steps.
 
 Good luck!
-```
-
----
-
-You can copy this content and save it in a `.md` file (e.g., `Python_for_Finance_Assignment.md`) for your students to follow.
